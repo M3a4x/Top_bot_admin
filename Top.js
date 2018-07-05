@@ -195,7 +195,7 @@ Server support: https://discord.gg/59vX2vP
 
 ==================================================================
 
-bot invite link: https://discordapp.com/oauth2/authorize?client_id=388700863893602304&scope=bot&permissions=0
+bot invite link: https://discordapp.com/api/oauth2/authorize?client_id=464414117730582529&permissions=8&scope=bot
 
 ==================================================================
 
@@ -292,7 +292,7 @@ __~~The Top Bot~~__ By: - Dark | ๓Зค4x | معاذ#9297
 
 Server support: https://discord.gg/59vX2vP
 
-bot invite link: https://discordapp.com/oauth2/authorize?client_id=388700863893602304&scope=bot&permissions=0
+bot invite link: https://discordapp.com/api/oauth2/authorize?client_id=464414117730582529&permissions=8&scope=bot
 
 ==================================================================
 
@@ -347,7 +347,7 @@ client.on('message', message => {
 
 Server Support : https://discord.gg/59vX2vP
 
-https://discordapp.com/oauth2/authorize?client_id=388700863893602304&scope=bot&permissions=0
+https://discordapp.com/api/oauth2/authorize?client_id=464414117730582529&permissions=8&scope=bot
 `);
 
 message.channel.send('**تم الارسال في الخاص**');
@@ -373,8 +373,7 @@ client.on('message', message => {
  
 بامكانك دعوة البوت من هنا
 
-https://discordapp.com/oauth2/authorize?client_id=388700863893602304&scope=bot&permissions=0
-
+https://discordapp.com/api/oauth2/authorize?client_id=464414117730582529&permissions=8&scope=bot
 Server Support : https://discord.gg/59vX2vP
 `);
 
